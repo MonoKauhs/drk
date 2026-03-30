@@ -1,30 +1,12 @@
 const imagens = [
 
-"imagens/bart.jpg",
+"Saved Pictures/monokauhgs.png",
 
-"imagens/troll.png",
+"Saved Pictures/monokauhs.png",
 
-"imagens/cr.png",
+"Saved Pictures/respeita o rato.png",
+"Saved Pictures/respeita o rato2.png",
 
-"imagens/mito.png",
-
-"imagens/pt.png",
-
-"imagens/gordo.png",
-
-"imagens/mitos.gif",
-
-"imagens/dio.png",
-
-"imagens/ney.png",
-
-"imagens/homer.png",
-
-"imagens/lula.png",
-
-"imagens/shrek.jpg",
-
-"imagens/andre.jpg",
 ];
 
 let previewAtual = 0;
