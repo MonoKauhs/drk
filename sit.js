@@ -2,7 +2,7 @@ const imagens = [
 
 "Saved Pictures/mitos.gif",
 
-    "Saved Pictures/mito.jpg",
+    "Saved Pictures/bart.jpg",
 
     "Saved Pictures/andre.jpg",
     
