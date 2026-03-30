@@ -1,6 +1,11 @@
 const imagens = [
 
-"Saved Pictures /mito.gif"
+"Saved Pictures/mitos.gif",
+
+    "Saved Pictures/mito.jpg",
+
+    "Saved Pictures/andre.jpg",
+    
 
 
 ];
