@@ -1,5 +1,4 @@
 body{
-  background-image: url(imagens/pt.png);
   background-size: 20%
   
 }
@@ -9,6 +8,7 @@ body{
   background-color: greenyellow;
   border-radius: 30px;
   box-shadow: 5px 5px 10px;
+  
 }
 
 .login{
