@@ -1,0 +1,111 @@
+body{
+  
+  background-size: 20%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#Titulo{
+  
+  background-color: greenyellow;
+  box-shadow: 5px 5px 10px;
+  position: fixed;
+  top: 0;
+  
+  width: 100%;
+  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
+  
+}
+
+
+#bloco{
+  
+  display: grid;
+  background-color: green;
+  
+  margin-top: 1.2em;
+  height: 100vh;
+  
+  grid-template-columns: 1fr;
+  grid-template-rows: 10px 200px 100px;
+  
+  
+}
+
+#barraEmBaixo{
+  display: grid;
+    margin-left: auto;
+  margin-right: auto;
+  align-self: center;
+  justify-content: center;
+  background-color: greenyellow;
+  box-shadow: 5px 5px 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
+  
+}
+
+#baguiDePostar{
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-template-rows: 1fr, 1fr
+  width: 90%;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  
+    background-color: greenyellow;
+  border-radius: 21px;
+  
+}
+
+
+#baguiDeEscreverOPost{
+  
+  width: 80%%;
+  height: 80%;
+  
+  margin-top: 1.3em;
+  border-radius: 10px;
+  margin-right: 3%;
+  text-decoration: gold;
+  text-align: left;
+  margin-left: 1%;
+  border-color: black
+}
+
+
+#fotoDePerfil{
+  
+  height: 4.5em;
+  width: 4.5em;
+  border-radius: 100px;
+  align-self: center;
+  margin-top: 1.2em;
+  margin-left: 20%;
+}
+
+#botaoDePostar{
+  background-color: cyan;
+  
+  border-radius: 10px;
+  align-self: center;
+  margin-left: 60%;
+  width: 30%;
+  height: 2em;
+  grid-column: 1/4;
+}
+
+#bagulho{
+  
+  text-align: center;
+  color: white;
+  
+  
+}
